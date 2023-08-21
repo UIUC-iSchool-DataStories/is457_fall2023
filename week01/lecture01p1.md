@@ -27,23 +27,23 @@ Please see the Land Acknowledgment in the Syllabus.
 Website.](https://chancellor.illinois.edu/land_acknowledgement.html)
 
 notes:
-
+we are a land grant institution, and as such it is important that we know a bit about our history -- please see the land acknowledgement on the chancellors page.
 
 ---
 
 ## Basics
 
-4:00-5:55PM Thursdays, online
+12:30-1:50PM Tues/Thurs
 
 Jill Naiman (Prof.) - `jnaiman@illinois.edu`
 
 Andy Zalot (Prof.) - `azalot2@illinois.edu`
 
-Qiuyan Guo (TA) - `qqguo2@illinois.edu`
+Gowri Balasubramaniam (TA) - `gowri2@illinois.edu`
 
 Office Hours: By Appointment
 
-Where are these slides? https://uiuc-ischool-datastories.github.io/is457_spring2023/
+Where are these slides? https://uiuc-ischool-datastories.github.io/is457_fall2023/
 
 notes:
 some basics, if you are here you probably know what time/space the class is taking place in but just know it won't change! :D
@@ -87,7 +87,7 @@ we will  make use of...
  * Tell well-evidenced stories
 
 notes:
-in some detail, here are the learning outcomes of this course as in the syllabus
+in some detail, here are the learning outcomes of this course as in the syllabus...
 
 ---
 
@@ -239,9 +239,25 @@ be aware that participation in this class is key to success
 
 We ask that you:
 
- * Utilize the Zoom features for "hand-raising"
- * Ask any questions that can be answered over chat using Zoom chat
+ * Participate in class (questions, comments, discussion)
+ * Engage with your group in class and outside of class (more about assignment groups next week)
  * Use Canvas resources & email (preferred) for communication outside of class
+
+---
+
+## Participation Guidelines - Presentations
+
+<div>All presentations will be <b>in person</b> - no hybrid/online options available.</div><!-- .element: class="fragment" -->
+
+<br />
+
+<div>This includes presentations that will take place in the last two weeks of class.</div><!-- .element: class="fragment" -->
+
+notes:
+Please note this is an in person class so we expect you to be in person - there are no online/hybrid options for this class.  While we will make recordings of the class in case you need to miss a class, these will not be available until after the class.
+
+**be aware** this includes ALL in class presentations, including your final presentations which will take place in the last 2 weeks of class - you will need to be here for these assignments to present with your group.
+
 
 ---
 
@@ -258,10 +274,24 @@ you will dive into the details more for the syllabus quiz, which is an assignmen
 
 the reading quizzes and in class activities are still being developed, so these are not all posted as of yet but we will update the Canvas with those items as soon as possible -- reading quizzes should be there early, but the graded activities may or may not be present until the week we will actually be doing them
 
+There *IS* a reading list however that you can access to "look ahead" at all of the reading for the course.
+
 also about reading quizzes: as these are new, there might be some errors in them!  if you think we got something wrong, let us know so we can fix it and update your grade accordingly!
 
-more details on the graded in class activities next week when we start using them! as folks are still shifting around classes, we won't be grading any in class stuff this week
 
+---
+
+## Grading - Categories
+
+ * 10% -- Reading Quizzes (\~weekly, more heavily toward the start of class)
+ * 15% -- Graded "in class" activities (\~weekly or every other week, individual and group)
+ * 75% -- Assignments (group)
+
+notes:
+
+**be aware** the in class activities are really "in class" activities in that some times there will be more than one assigned during class, in which case, any beyond the "main" one will be due several days after the course
+
+more details on the graded in class activities next week when we start using them! as folks are still shifting around classes, we won't be grading any in class stuff this week
 
 ---
 
@@ -450,7 +480,7 @@ There will be one or two HTML tags we might use to do things like include images
  
 There is *not* a programming requirement or prerequisite for this course.
 
-Recommended tutorials & recordings will be posted before classes.
+Recommended tutorials & recordings are posted at the top of the "Modules" part of the Canvas course page.
 
 notes:
 for these topics, we will post some suggested resources including tutorials and recordings before class -- we have one for this class, but it is the first class so it is hard to do things before!
@@ -481,6 +511,8 @@ mention modules
  * each week will have reading quizzes and in-class submission placeholders for the week
  * we will also have the lecture slides, recommended readings, and any relevant resources for the week
  * we are still adding things, but are aiming to be at least a week or more ahead with material postings!
+
+**be sure to point out tutorials and resources at top of page!**
 
 ---
 

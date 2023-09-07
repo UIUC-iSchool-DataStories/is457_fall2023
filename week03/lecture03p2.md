@@ -9,6 +9,16 @@ description: >-
 date: 2023-02-02
 ---
 
+## Tweet Critique Dates Set
+
+(Please email us As Soon As Possible if your group needs to change your assigned date).
+
+notes:
+
+also, we had a lot of folks sign up for the first day! more than we were expecting! so now we have split this into 1 group on the first day and 2 on the second day
+
+---
+
 <br>
 <br>
 

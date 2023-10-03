@@ -3,6 +3,6 @@ layout: week
 visible: true
 ---
 
-# Week 9 - Spring Break! Enjoy!
+# Week 9 - Twine as a Framing Device
 
-No class this week, enjoy the break!
+An introduction to Twine: twinery.org

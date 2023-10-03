@@ -138,4 +138,4 @@ use about 10 minutes to explore the data together
 1. answer these questions together
 1. you do *not* have to do any visualizations with this data at this step (some of the websites will have their own viz options as well)
 
-**more about this next week!**
+**more about this next week and/or later today based on time!!**

@@ -1,5 +1,5 @@
 ---
-title: Lecture, Day 1 - A few announcements
+title: Lecture 7.1 - A few announcements
 layout: lecture
 tags:
   - GDS

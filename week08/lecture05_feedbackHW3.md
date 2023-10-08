@@ -21,7 +21,7 @@ we expect all items to be addressed in your final submission
 
 We left you feedback, please read it carefully! (Even if you got a 5/5 on the assignment!)
 
-You can use whatever software you want to make the visualizations!
+You can use whatever software you want to make the visualizations, just be sure to include your source code (or Excel file, or link to GDS, etc) in your submission!
 
 notes:
 we listed a few viz software in the assignment like google data studio, R, Python, excel -- any of these is fine!  its whatever you are most comfortable with
@@ -32,7 +32,7 @@ there is the word "data" in this course's title so you do have to "do something"
 
 ## Some trends
 
-Ideas for critiques:
+Ideas for critiques for your chosen fivethirtyeight article:
  * critiques of visualizations
  * critiques of study/data collection methodolgies
  * critiques of foundational ideas in the article
@@ -46,7 +46,7 @@ so, we noticed three broad categories of proposed critiques and I've put them he
 
 ## Some trends
 
-Ideas for critiques:
+Ideas for critiques for your chosen fivethirtyeight article:
  * critiques of visualizations
    * redo viz, talk about choices (yours & authors), ideas to make it better
  * critiques of study/data collection methodolgies
@@ -61,7 +61,7 @@ you're already making the viz anyway, this is a great opportunity to talk about 
 
 ## Some trends
 
-Ideas for critiques:
+Ideas for critiques for your chosen fivethirtyeight article:
  * critiques of visualizations
    * redo viz, talk about choices (yours & authors), ideas to make it better
  * critiques of study/data collection methodolgies
@@ -84,7 +84,7 @@ so, in summary this option could be not that much work or A LOT of work and rese
 
 ## Some trends
 
-Ideas for critiques:
+Ideas for critiques for your chosen fivethirtyeight article:
  * critiques of visualizations
    * redo viz, talk about choices (yours & authors), ideas to make it better
  * critiques of study/data collection methodolgies

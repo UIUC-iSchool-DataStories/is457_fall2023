@@ -1,12 +1,12 @@
 ---
-title: Lecture, Day 2 - Data Character in Story
+title: Lecture 8.2 - Data Character in Story
 layout: lecture
 tags:
   - characters
   - data characters
 description: >-
   Mapping kinds of data to storytelling characters.
-date: 2023-10-03
+date: 2023-10-12
 ---
 
 ## Data Characters

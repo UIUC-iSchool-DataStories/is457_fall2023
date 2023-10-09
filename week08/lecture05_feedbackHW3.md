@@ -1,5 +1,5 @@
 ---
-title: Lectur 8.1 - Feedback from Assignment 3 (Narrative Proposal)
+title: Lecture 8.1 - Feedback from Assignment 3 (Narrative Proposal)
 layout: lecture
 description: >-
   Feedback for Assignment #3.

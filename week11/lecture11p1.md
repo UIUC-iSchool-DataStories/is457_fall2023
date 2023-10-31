@@ -177,3 +177,10 @@ In this case the "hidden" part of the story is the comparision between Switzerla
 
 **again -- this is all very handwavy!** but hopefully that gives you some ideas for "well described" vs "not well described" data characters (at least, in this example) as it relates to plots.
 
+---
+
+## Cautions
+
+* It can be easy to mislead viewers -- make sure you can back up these statements with peer reviewed research!
+* Take care overdrawing lines -- ideally you have access to data (you can extract pixel-level precision data points manually with online tools)
+
